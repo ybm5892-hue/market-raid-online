@@ -1,0 +1,14 @@
+{
+  "name": "MARKET RAID · 투자 토론실",
+  "short_name": "Market Raid",
+  "description": "iPhone에 최적화된 무료 투자 분석 토론 앱",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090f1b",
+  "theme_color": "#0b1220",
+  "icons": [
+    {"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
